@@ -2,8 +2,9 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.4.1
 - UI: Revert most of the colors of the git decoration to the legacy scheme
+- UI: Fix hover link being transparent
 
 ## 1.4.0
 - Feature: Added Remedy inspired themes
