@@ -2,7 +2,7 @@
 
 All notable changes to the this extension will be documented in this file.
 
-## Unreleased
+## 1.5.0
 - Tweak TextMate for HTML and JSX.
 
 ## 1.4.1
